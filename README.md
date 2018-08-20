@@ -1,3 +1,3 @@
 # hello-world
 it's just another day
-chalappas
+just another day
